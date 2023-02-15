@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  BetterSleep
-//
-//  Created by Ananya George on 10/14/21.
-//
-
 import SwiftUI
 import CoreML
 
